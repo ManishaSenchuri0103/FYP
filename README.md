@@ -4,7 +4,7 @@ My final Year project during my UnderGraduate
 
 ## Project Overview
 
-**Mero Canteen** is a mobile application designed to streamline the food ordering process in school and college canteens by enabling students to pre-order their meals. The project addresses common issues like long queues, verbal miscommunication, and outdated menu displays, which cause inefficiencies in traditional canteen operations. The application allows users to view the menu in real-time, place orders in advance, and receive visual confirmation of their orders. It also includes features such as automated billing, the ability to add specific requirements for food, and multiple payment options, including cash on delivery and digital wallets. This solution is aimed at reducing wait times, improving service speed, and enhancing the overall canteen experience for students and staff.
+**Mero Canteen** is a mobile application designed to streamline the food ordering process in school and college canteens by enabling students to pre-order their meals. The project addresses common issues like long queues, verbal miscommunication, and outdated menu displays, which cause inefficiencies in traditional canteen operations. The application allows users to view the menu in real-time, place orders in advance, and receive visual confirmation of their orders. It also includes features such as automated billing, the ability to add specific requirements for food, and multiple payment options, including cash on arrival. This solution is aimed at reducing wait times, improving service speed, and enhancing the overall canteen experience for students and staff.
 
 ## Features
 
@@ -22,7 +22,6 @@ My final Year project during my UnderGraduate
 - **Backend:** Laravel (PHP)
 - **Database:** MySQL
 - **IDE:** Visual Studio Code
-- **Payment Integration:** Khalti
 
 ## Methodology
 
